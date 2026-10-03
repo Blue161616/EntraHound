@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/entra-hound-logo.svg" width="300" alt="EntraHound"></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/logo-lockup-dark.svg"><img src="assets/logo-lockup-light.svg" width="300" alt="EntraHound"></picture></p>
 
 # EntraHound
 
